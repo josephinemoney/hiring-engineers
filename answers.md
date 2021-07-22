@@ -199,6 +199,7 @@ Alerting threshold of 800:
 Note: The instructions noted to include the host ip in the message when the Monitor triggers an Alert state. By default my Vagrant box does not have an IP address, so this value was not populated in the email. However, I have an included an additional image below showing the code that would include it if the host did have an IP.
 
 ![](images/Alert_Monitor.png)
+![](images/Alert_Host_IP.png)
 
 No data for past 10 min:
 
